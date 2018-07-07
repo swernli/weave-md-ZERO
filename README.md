@@ -1,6 +1,7 @@
-# Weave Playset (Markdown Format)
+# ZERO, a Weave Playset (Markdown Format)
+ZERO is a playset for the Weave RPG.  It is set in a world of powerful super heroes, evil villains, and the ordinary and not-so-ordinary people caught in between.  See below for general info on Weave playsets, copied from the README at [weave-md-playset](https://github.com/monoclesociety/weave-md-playset).  Check out [Weave: Storytelling Redefined](https://weave.game/) give it a try!
 
-## Overview
+## wEAVE PLAYSET INFO
 Weave is a 21st century storytelling platform for everyone. With just two decks of cards and a handful of dice, you and your friends can create adventures in any genre, from sci-fi to high school comedy. When combined with the free companion app, Weave provides all the power you'll need to discover new worlds, imagine amazing characters, and save your stories online in minutes.
 
 This playset format uses Markdown, which is a popular way for writers to work in formatted documents. The Weave playset importer uses this format to import your world into the Weave platform so you can play Weave in the world of your making. Additionally you can submit the playset to be approved into the Weave storefront so the whole world can purchase and play.

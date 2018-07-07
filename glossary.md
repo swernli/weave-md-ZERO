@@ -1,4 +1,4 @@
 # GLOSSARY
 
-## Example Glossary Entry
-This is an example glossary entry. Glossary entries help players and storytellers further understand the subtle nuances of your world, including places, key people of interests, religions, special items, or anything else that are key to understanding the world you have created.
+## What is a Zero?
+On the power ranking scale, fives and fours are powerful heroes and dangerous villains, threes and twos are vigilantes, sidekicks and criminals, and even ones can often be found as aspiring henchmen. And then there is the Zero: just different enough to not be ordinary, but also not quite extraordinary. No one expects a Zero to save the day, hold the city ransom, or change the world. But they'll never really be normal, either. They wont live quiet, simple lives, and the epic adventures of the truly super powered are out of their reach, so where exactly do they fit in?

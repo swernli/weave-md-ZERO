@@ -1,9 +1,9 @@
 
 # Title
-EXAMPLE PLAYSET TITLE
+ZERO
 
 # Author
-EXAMPLE AUTHOR
+Stefan J. Wernli
 
 # Cover Images
 ![StoreFront Image](/media/images/logo.jpg)
@@ -16,15 +16,15 @@ EXAMPLE AUTHOR
 2018.3
 
 # Story Version
-1.0
+0.1
 
 # Overview
-This is an example description of the playset. This is what players will read when they first see your playset, and should be considered your elevator pitch to players of what your world is about and what they should expect.
+In a world of epic heroes and villains, you are a ZERO: tenically you have powers, but they are hardly super. What will you do when the never-ending battle for the fate of the universe spills over into your almost normal life?
 
 # RPGRating
-- 2
 - 1
-- 2
+- 1
+- 1
 
 
 
